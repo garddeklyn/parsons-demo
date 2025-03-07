@@ -6,12 +6,12 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif;
 }
 
 header {
-    background-color: #4CAF50;
-    color: white;
+    background-color: purple;
+    color: pink;
     text-align: center;
     padding: 20px;
 }
@@ -44,11 +44,4 @@ nav ul li a {
     height: 400px;
     background-color: #f4f4f4;
     padding: 20px;
-}
-
-footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 10px;
 }
